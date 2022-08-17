@@ -1,36 +1,28 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+<div style="display: flex; flex-direction: column; width: 100%;">
+<div style="display: flex; justify-content: center; width:100%">
+<img src="./assets/UNAHUR.png" width="400" alt="Logo UNAHUR"/>
+</div>
 
-Bienvenidos a
-# Programación con objetos I
+<img src="./assets/perfil.jpg" width="100" height="100" style="border-radius:50px; margin-top: 20px;" alt="Perfil"/><br/>
+</div>  
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+# Mi nombre Carlos Alberto Prost
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+## Un poco de mi
+Tengo 34 años, soy oriundo de Libertad, soy una persona muy activa y simpática y soy estudiante en la Tecnicatura Universitaria en Informática desde el comienzo del 2021. Hace poco pude lograr comenzar a estudiar, dado que llevo una vida laboral muy intensa y que ocupa gran parte de mi tiempo. Desde que comencé la carrera trato de ponerle toda la garra posible intentando superarme día a día y continuando con los temas luego de terminada la cursada. No tengo experiencia trabajando en ningún sector de IT, por lo que trato de crear por mi cuenta a fin de ganar manejo de las tecnologías en las que he incurrido.
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **noche**: Martes 18hs.
-* Horario comisión **tarde**: Jueves 14hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappanni, Lucas Bonadeo y Matías Müller
+## Tecnologías que conozco
+- HTML, CSS Y Javascript
+- SQL
+- Python
+- Kotlin
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1FTLWZ96uVd8V1xNkm2wvaUHhfS9MiC_LEomQYwJhI6I/edit#gid=1006593733) de clases.
-- [x] [Matricularse](https://discord.gg/RnAwZsSwdw) y ver el canal de Discord.
-- [x] [Clase de consulta](https://meet.google.com/ova-hohx-gzf) de los sábados 15 a 17 hs.
-- [x] [Mumuki](https://mumuki.io/unahur-obj1)
+## Materias cursadas hasta el momento
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
+- Introducción a la programación
+- Organización de computadoras
+- Nuevos entornos y lenguajes
+- Materia UNAHUR
+- Redes Informáticas
 
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
 
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
